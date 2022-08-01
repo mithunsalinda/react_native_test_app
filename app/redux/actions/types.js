@@ -1,0 +1,7 @@
+export default {
+    LOGIN_USER: 'LOGIN_USER',
+    LOG_OUT: 'LOG_OUT',
+    LOGIN_INIT: 'LOGIN_INIT',
+    LOGIN_ERRORS: 'LOGIN_ERRORS',
+    GET_USERS: 'GET_USERS'
+}
